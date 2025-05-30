@@ -48,7 +48,7 @@ let tmp;
 /*if (process.env.NODE_ENV === "production") {
   tmp = "/home/busmapss/tmp";
   // applicationURL = "/server";
-} else */if (process.env.USER === "belllyaa") {
+} else */if (process.env.USER === "artem") {
   tmp = process.cwd();
 } else if (process.env.USER === "ubuntu") {
   tmp = "/home/ubuntu/tmp"
