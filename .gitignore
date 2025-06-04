@@ -3,3 +3,4 @@ db/
 data/
 output.json
 .DS_Store
+.idea/
